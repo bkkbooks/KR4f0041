@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0041/krp/v1/juan/14
+seq: 14
+front:
+  text: 因園集跋今年秋重謁趙秋谷夫子於因園而夫子病目彌甚不作詩六年矣從仲君羮梅得夫子手定平生詩藁分十三集假歸録副未及校而羮梅遽索原本以去嵗寒無事乃校一過曩夫子手書濟南竹枝及宿法慶寺二律皆不在蓋所删多矣乾隆辛酉除夕前三日門人丁際隆謹記
+  hash: sha256:59aed3e76b1e60bbb8cab6f68e330d9ac7cd81606d65ba45b84ce828d8d527ea
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0041_WYG_014-1a, image: WYG1325/WYG1325-0432a.png}
+body:
+  text: 因園集跋
+  hash: sha256:81c76559f302f531b24245d8adc93b982a4fe9e1b9fdd973489ee14ccfa91a27
+metadata:
+  title: 因園集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:29:57.713369'
+  juan_title: 跋
+  source:
+    repository: kanripo
+    path: KR4f0041/KR4f0041_014.txt
+hash: sha256:084cc422ae61fe8aaa2c1217dfb338b7ede40ade3e705623081bdbbc2c1314f2
