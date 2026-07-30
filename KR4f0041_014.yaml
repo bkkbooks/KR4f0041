@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR4f0041/krp/v1/juan/14
 seq: 14
-front:
-  text: 因園集跋今年秋重謁趙秋谷夫子於因園而夫子病目彌甚不作詩六年矣從仲君羮梅得夫子手定平生詩藁分十三集假歸録副未及校而羮梅遽索原本以去嵗寒無事乃校一過曩夫子手書濟南竹枝及宿法慶寺二律皆不在蓋所刪多矣乾隆辛酉除夕前三日門人丁際隆謹記
-  hash: sha256:12751959aabf7620d88a9679cbf5c4ffdbb29102e6e17fb2070c1f67aa577569
+body:
+  text: 因園集跋今年秋重謁趙秋谷夫子於因園而夫子病目彌甚不作詩六年矣從仲君羮梅得夫子手定平生詩藁分十三集假歸録副未及校而羮梅遽索原本以去嵗寒無事乃校一過曩夫子手書濟南竹枝及宿法慶寺二律皆不在蓋所刪多矣乾隆辛酉除夕前三日門人丁際隆謹記因園集跋
+  hash: sha256:6d709a30387f975eca392929414530728a3076b921f923e9b9fdad3653f91d3d
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4f0041_WYG_014-1a, image: WYG1325/WYG1325-0432a.png}
-body:
-  text: 因園集跋
-  hash: sha256:81c76559f302f531b24245d8adc93b982a4fe9e1b9fdd973489ee14ccfa91a27
 metadata:
   title: 因園集
   edition:
@@ -18,4 +15,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4f0041/KR4f0041_014.txt
-hash: sha256:64a19e2a033327906b8681ad9fbf6b5f0e7be99d224176c9f319f7f72af74e4b
+hash: sha256:d6a1715408799fa44dc6c567e395272203708750c56caafd458b32089eeee445
